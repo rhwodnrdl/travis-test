@@ -1,0 +1,4 @@
+language: c
+script:
+  - gcc main.c team1.c team1.h
+  - ./a.out
